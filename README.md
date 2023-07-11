@@ -39,5 +39,3 @@ Além disso, o jovem cientista também pode estabelecer uma rotina de estudo e t
 
 A vida desse jovem cientista é cheia de aprendizado constante, crescimento pessoal e satisfação ao ver seus projetos ganharem vida. Sua dedicação e paixão pela eletrônica e programação o impulsionam a buscar uma carreira futura nesse campo, como engenheiro eletrônico, cientista da computação, desenvolvedor de software ou pesquisador científico.
 
-[](https://media.tenor.com/ARB1T-BsAcUAAAAM/walk-brawl-stars.gif)
-
