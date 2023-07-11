@@ -2,7 +2,9 @@
 **meu nome é _Carlos Eduardo Salles Larentes_**
 
 **quem sou eu?** // :)
+Meu nome é Carlos Eduardo sou uma pessoa apaixonada por programação e eletrônica desde muito jovem descobri meu fascínio pelo mundo da tecnologia ainda criança quando fiquei facinado por muitos circuitos eletrônicos.
 
+HOJE FAÇO PEQUENOS PROJETOS DE ELETRÔNICA TENTO DAR O MEU MELHOR PARA ME TORNAR UM ÓTIMO PROFISSIONAL.
 
 - estou estudando no _primeiro ano do ensino médio_
 
