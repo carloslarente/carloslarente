@@ -38,3 +38,6 @@ Esse jovem cientista é motivado pela curiosidade e pelo desejo de criar algo ú
 Além disso, o jovem cientista também pode estabelecer uma rotina de estudo e trabalho disciplinada, reservando tempo específico para se dedicar aos seus projetos pessoais. Ele aprende a lidar com desafios e obstáculos ao longo do caminho, seja solucionando problemas técnicos complexos, superando falhas ou experimentando diferentes abordagens.
 
 A vida desse jovem cientista é cheia de aprendizado constante, crescimento pessoal e satisfação ao ver seus projetos ganharem vida. Sua dedicação e paixão pela eletrônica e programação o impulsionam a buscar uma carreira futura nesse campo, como engenheiro eletrônico, cientista da computação, desenvolvedor de software ou pesquisador científico.
+
+[](https://media.tenor.com/ARB1T-BsAcUAAAAM/walk-brawl-stars.gif)
+
