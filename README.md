@@ -12,7 +12,7 @@ e esse é o meu perfil no github 🎇 🎆 🎆 🎇
 
 Sou um pequeno ciêntista e programador, tenho 15 anos e comecei na eletrônica fui evoluindo e hoje estou me esforçando muito para me tornar um grande profissional.
 
-![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)[//minha pagina da web](https://carloslarente.github.io/paginaWeb/index.html)
+![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)[//minha pagina da web](https://carloslarente.github.io/paginaWeb)
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)[//meu canal no youtube](https://www.youtube.com/channel/UCvYhpd41LixfaEn2cd8shXA)
 
