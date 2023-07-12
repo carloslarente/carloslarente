@@ -10,6 +10,7 @@
 **quem sou eu?** // 🎮 ⚽ 🎮 🕹️
 
 ![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)[minha pagina da web](https://carloslarente.github.io/paginaWeb/index.html)
+![]()[](https://www.youtube.com/channel/UCvYhpd41LixfaEn2cd8shXA)
 
 - estou estudando no _primeiro ano do ensino médio_
 
