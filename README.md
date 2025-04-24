@@ -10,21 +10,20 @@ e esse é o meu perfil no github 🎇 🎆 🎆 🎇
 
 **quem sou eu?** 🎮 ⚽ 🎮 🕹️
 
-Sou um pequeno ciêntista e programador, tenho 15 anos e comecei na eletrônica fui evoluindo e hoje estou me esforçando muito para me tornar um grande profissional.
-
-![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)[//minha pagina da web](https://carloslarente.github.io/paginaWeb)
+Sou um pequeno tecnico em eletronica e programador de microcontroladores, tenho 17 anos e comecei na eletrônica fui evoluindo e hoje estou me esforçando muito para me tornar um grande profissional busco me tornar um grande engenheiro mecanico e eletrico.
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)[//meu canal no youtube](https://www.youtube.com/channel/UCvYhpd41LixfaEn2cd8shXA)
 
-**onde estou cursando**   📚 📗    
+**meus cursos**   📚 📗    
 
 estou estudando nas plataformas: 📖 📓 📖
 
 
-- estou estudando no _primeiro ano do ensino médio_
+- estou estudando no _terceiro ano do ensino médio_
 
-- estou cursando nas plataformas: [ALURA](https://www.alura.com.br) //-   [CURSA](https://cursa.app/pt) //-   [FUNDAÇÃO BRADESCO](https://www.ev.org.br/)  //-   [INGLÊS PARANA](https://www.ef.com.br/) //-   [KULTIVI](https://app.kultivi.com/) //-   [MIMO](https://mimo.org/) //
-
+- tenho feito o curso de eletronica do eletronica facil alem de soldagem e desoldagem, e eletronica digital e arduino.
+  
+- pranejo fazer cursos de eletrica, mecanica, e metalurgica.
 
 ### você pode entrar em contato comigo 📧 📎 📝 
 
@@ -36,7 +35,6 @@ estou estudando nas plataformas: 📖 📓 📖
 
 **Linguagem que uso diariamente**
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- estou aprendendo sobre C++ para programar arduinos
 
-![](https://media.tenor.com/4sg3zc2RXgUAAAAM/jmd-japanese-cars.gif) ![](https://media.tenor.com/oeGuhk0QjN0AAAAM/drift-anim.gif)
-
+**tenho uma pequena oficina e busco melhorala**
